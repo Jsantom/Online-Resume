@@ -1,0 +1,17 @@
+ html {
+            background-color:#D3DAD9;
+            color:37353E;   
+            font-family: "Montserrat", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 400;
+            font-style: normal;                    
+        }
+
+        #profilepic {
+            height:330px;
+        }
+
+        #footer {
+            text-align:center;
+        }
+        
